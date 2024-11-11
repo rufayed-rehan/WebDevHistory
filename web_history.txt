@@ -21,10 +21,12 @@ The focus was on fostering communication, collaboration, and content sharing.
 
 
 Web 3.0 (Decentralized Web) :
-         Web 3.0, also known as the “read-write-execute” web, is the latest evolution of the internet, emphasizing decentralization, privacy and semantic understanding (contextual content).
-This era leverages technologies like blockchain, smart contracts, and cryptocurrencies to create decentralized apps (DApps) and enable secure peer-to-peer interactions without intermediaries.
-Key features include Artificial Intelligence (AI), machine learning, and the Internet of Things (IoT), which help provide personalized, data-driven experiences.
-Web 3.0 aims to give users control over their data and enable trustless interactions through decentralized platforms like Ethereum and IPFS (InterPlanetary File System).
+         Web 3.0, also known as the “read-write-execute” web, is the latest evolution of the internet, emphasizing decentralization & privacy. 
+This era leverages technologies like blockchain, smart contracts, and cryptocurrencies to create decentralized apps (DApps) and enable 
+secure peer-to-peer interactions without intermediaries.
+key features include Artificial Intelligence (AI), machine learning, and the Internet of Things (IoT), which help provide personalized, data-driven experiences.
+Web 3.0 aims to give users control over their data and enable trustless interactions through decentralized platforms 
+like Ethereum and IPFS (InterPlanetary File System).
 
 
 
