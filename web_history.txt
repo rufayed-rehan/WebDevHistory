@@ -1,0 +1,21 @@
+Short paragraph on Web 1.0,2.0 & Web 3.o; covering key features & tools used in each of the eras :
+
+Web 1.0 (Static Web) :
+Web 1.0, the first generation of the internet (1990s - early 2000s), is often referred to as the “read-only” web. During this era, websites were static, meaning they were simple HTML pages that provided information without much interaction. Users could browse content, but they could not engage with it or contribute to it. Key features included static text, images, and basic hyperlinks. Tools and technologies used in Web 1.0 included HTML, CSS, and simple web browsers like Netscape Navigator and early versions of Internet Explorer. There were no social networks, user-generated content, or dynamic elements.
+
+Web 2.0 (Social Web) :
+Web 2.0, emerging in the early 2000s, transformed the internet into an interactive, social platform, making it the “read-write” web. This era introduced user-generated content, social networking, and dynamic web applications. Key features included blogs, wikis, social media platforms, and rich interactive websites. Technologies that powered Web 2.0 included JavaScript, AJAX, and Content Management Systems (CMS) like WordPress. Popular platforms like Facebook, YouTube, and Wikipedia enabled users to share content, connect with others, and collaborate online. The focus was on fostering communication, collaboration, and content sharing.
+
+Web 3.0 (Decentralized Web) :
+Web 3.0, also known as the “read-write-execute” web, is the latest evolution of the internet, emphasizing decentralization, privacy, and semantic understanding (contextual content). This era leverages technologies like blockchain, smart contracts, and cryptocurrencies to create decentralized apps (DApps) and enable secure peer-to-peer interactions without intermediaries. Key features include Artificial Intelligence (AI), machine learning, and the Internet of Things (IoT), which help provide personalized, data-driven experiences. Web 3.0 aims to give users control over their data and enable trustless interactions through decentralized platforms like Ethereum and IPFS (InterPlanetary File System).
+
+
+
+
+
+~ (wrote by the help of AI)
+~ thank you.
+
+
+
+
